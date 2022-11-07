@@ -1,5 +1,5 @@
 ---
-title: "A Searchable Database of Allegheny Count Election Division's Potentially Incorrect Ballots"
+title: "A Searchable Database of Allegheny County Election Division's Potentially Incorrect Ballots"
 date: '2022-11-07'
 output: 
   html_document:
