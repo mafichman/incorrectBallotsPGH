@@ -67,7 +67,7 @@ The Elections Division site also provides options for people who cannot travel d
 The databases they published were not searchable in a web browser. This site formats the data in a searchable tool.
 
 This tool points directly to the URLs published by the Elections Division. The code used to generate this searchable database [is open source and available](https://github.com/mafichman/incorrectBallotsPGH).
-This site is not associated with the Allegheny County Elections Division, any government, or any election entity.
+This site is not associated with the Allegheny County Elections Division, any government, political party, political action committee, or any election entity.
 
 # Search for your ballot
 

@@ -1,6 +1,8 @@
 # incorrectBallotsPGH
 A searchable database of potentially incorrect ballots published by the Allegheny County Elections Division, 11/6/2022
 
+Find the tool here: [https://mafichman.github.io/incorrectBallotsPGH/](https://mafichman.github.io/incorrectBallotsPGH/)
+
 You can use this site to to see if your 2022 mail-in ballot for the November election was listed as "potentially incorrect" by the Allegheny County Elections Division (as of Nov. 6th) and in need of correction.
 
 For information about how to correct your ballot, [please visit the Election Division's website](https://www.alleghenycounty.us/elections/incorrect,-no-date-ballots.aspx).
